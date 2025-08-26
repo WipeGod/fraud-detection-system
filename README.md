@@ -1,11 +1,9 @@
 # 🛡️ Credit Card Fraud Detection System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-
 An advanced machine learning system for detecting fraudulent credit card transactions in real-time using multiple algorithms and ensemble methods.
 
 ## 🚀 Live Demo
-**Try it now:** [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+[**Try it now:**](https://fraud-detection-system-humamsxtenmwomqjs2m8qp.streamlit.app/)
 
 ## ✨ Features
 
